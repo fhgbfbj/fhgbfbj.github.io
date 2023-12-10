@@ -1,0 +1,3 @@
+myButton.onclick = function () {
+    setUserName();
+};
